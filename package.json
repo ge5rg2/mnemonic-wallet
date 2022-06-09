@@ -1,0 +1,26 @@
+{
+  "name": "mnemonic-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ge5rg2/mnemonic-wallet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ge5rg2/mnemonic-wallet/issues"
+  },
+  "homepage": "https://github.com/ge5rg2/mnemonic-wallet#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "debug": "^4.3.4",
+    "eth-lightwallet": "^4.0.0",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0"
+  }
+}
